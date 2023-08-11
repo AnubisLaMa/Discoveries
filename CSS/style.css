@@ -1,0 +1,18 @@
+*{
+    margin:0;
+    padding:0;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+    body{
+        background-color: black;
+    }
+.container{
+    position: relative;
+    background: url(../images/Background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 80rem;
+    width: 100%;
+    background-position: center;
+}
